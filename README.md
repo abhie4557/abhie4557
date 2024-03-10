@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Web/Web Application Development
+- 🔭 I’m currently working on Website/Web Application Development
 - 🌱 I’m currently learning Flask, Django, Javascript
 
